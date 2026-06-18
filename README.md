@@ -20,8 +20,6 @@ A 2:1 Multiplexer is a combinational logic circuit that selects one of two input
 ## Tools Used
 
 - Xilinx Vivado
-- Verilog HDL
-- Vivado Simulator
 
 ---
 
