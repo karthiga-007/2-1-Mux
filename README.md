@@ -37,14 +37,6 @@ A 2:1 Multiplexer is a combinational logic circuit that selects one of two input
 
 ---
 
-## Truth Table
-
-| S | Y |
-|---|---|
-| 0 | A |
-| 1 | B |
-
----
 
 ## Features
 
@@ -82,3 +74,11 @@ The simulation verified that the output correctly follows the selected input for
 ## Conclusion
 
 A 2:1 Multiplexer was successfully designed and simulated using Verilog HDL in Vivado. The simulation results confirmed correct input selection based on the select signal, demonstrating the fundamental operation of multiplexing in digital systems.
+
+
+## Truth Table
+
+| S | Y |
+|---|---|
+| 0 | I0 |
+| 1 | I1 |
